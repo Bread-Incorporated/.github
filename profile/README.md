@@ -5,10 +5,10 @@
     <p>Organization focused on providing Roblox Utilities to enhance user gameplay!</p>
     <hr />
     <p>We're both an organization & community, dedicated towards creating powerful Roblox utility tools, designed to enhance your experience and automate the process of farming. Progress faster and more efficiently now! 👑</p>
-    <p>🌍 Communicate with other users
-    » https://discord.gg/cashfarm
-    </p>
 </div>
+
+🌍 Communicate with other users\
+» https://discord.gg/cashfarm 
 
 <div align="middle">
     Bread Incorporated LLC © 2024-2025
